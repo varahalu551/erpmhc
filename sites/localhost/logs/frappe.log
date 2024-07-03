@@ -1,0 +1,315 @@
+2024-05-18 16:09:01,386 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-msqijftzij","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_name":"Desktop PC","item_code":"Desktop PC"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-18 16:12:01,594 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-veegnnyvum","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_name":"Desktop PC","item_code":"Desktop PC","alternative_item_code":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-18 16:26:06,126 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-lnhgmtdmhl","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_code":"deskpc-001","item_name":"Desktop PC"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-06-18 15:51:01,360 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,364 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,366 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,367 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,368 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,370 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,371 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,372 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,373 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,378 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,380 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,788 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,790 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,792 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,794 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,795 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,797 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,800 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,803 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,804 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,806 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,808 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,811 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,812 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,611 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,615 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,616 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,618 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,620 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,621 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,623 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,625 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,627 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,628 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,630 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,632 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,859 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,860 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,861 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,863 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,864 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,866 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,869 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,870 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,871 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,874 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,876 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,877 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,192 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,194 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,195 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,197 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,198 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,200 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,202 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,204 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,205 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,207 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,209 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,211 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,213 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,215 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:59:53,989 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:59:55,017 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:00:04,854 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:00:05,442 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:08:38,117 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:08:38,593 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:08:39,098 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,280 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,280 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,281 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,281 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,929 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,929 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:01,648 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:01,648 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:02,789 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:02,789 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:11,983 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:11,983 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:12,489 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:12,489 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:16,621 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:16,621 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:17,263 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:17,263 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-24 12:26:02,988 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'user': 'sampanth@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2024-06-24 12:35:59,361 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'user': 'sampanth@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2024-06-24 12:47:01,248 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'user': 'varahalu51@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2024-06-24 18:25:08,848 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"name":"purchase order workflow","owner":"Administrator","creation":"2024-06-24 18:05:18.345217","modified":"2024-06-24 18:05:18.345217","modified_by":"Administrator","docstatus":0,"idx":0,"workflow_name":"purchase order workflow","document_type":"Purchase Order","is_active":true,"override_status":0,"send_email_alert":0,"workflow_state_field":"workflow_state","doctype":"Workflow","transitions":[{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-whnletrhyq","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","action":"Review","next_state":"Approved","allowed":"Purchase User"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-ntjvmayyox","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","action":"Approve","next_state":"Approved","allowed":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-hkcegrtnrd","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","action":"Reject","next_state":"Rejected","allowed":"Purchase Manager"}],"states":[{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-mqxdptttnc","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Draft","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","allow_edit":"Purchase User"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-jweybfulrt","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Submitted","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","allow_edit":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-gyvuqjopda","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Cancelled","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","allow_edit":"Accounts Manager"}],"__last_sync_on":"2024-06-24T12:35:20.679Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-06-24 18:25:24,013 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"name":"purchase order workflow","owner":"Administrator","creation":"2024-06-24 18:05:18.345217","modified":"2024-06-24 18:05:18.345217","modified_by":"Administrator","docstatus":0,"idx":0,"workflow_name":"purchase order workflow","document_type":"Purchase Order","is_active":1,"override_status":0,"send_email_alert":0,"workflow_state_field":"workflow_state","doctype":"Workflow","transitions":[{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-whnletrhyq","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","action":"Review","next_state":"Approved","allowed":"Purchase User"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-ntjvmayyox","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","action":"Approve","next_state":"Approved","allowed":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-hkcegrtnrd","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","action":"Reject","next_state":"Rejected","allowed":"Purchase Manager"}],"states":[{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-mqxdptttnc","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Draft","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","allow_edit":"Purchase User"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-jweybfulrt","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Submitted","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","allow_edit":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-gyvuqjopda","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Cancelled","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","allow_edit":"Accounts Manager"}],"__last_sync_on":"2024-06-24T12:35:20.679Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-06-24 18:25:55,384 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"name":"purchase order workflow","owner":"Administrator","creation":"2024-06-24 18:05:18.345217","modified":"2024-06-24 18:05:18.345217","modified_by":"Administrator","docstatus":0,"idx":0,"workflow_name":"purchase order workflow","document_type":"Purchase Order","is_active":1,"override_status":0,"send_email_alert":0,"workflow_state_field":"workflow_state","doctype":"Workflow","transitions":[{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-whnletrhyq","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","action":"Review","next_state":"Approved","allowed":"Purchase User"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-ntjvmayyox","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","action":"Approve","next_state":"Approved","allowed":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-hkcegrtnrd","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","action":"Reject","next_state":"Rejected","allowed":"Purchase Manager"}],"states":[{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-mqxdptttnc","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Draft","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","allow_edit":"Purchase User"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-jweybfulrt","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Submitted","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","allow_edit":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-gyvuqjopda","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Cancelled","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","allow_edit":"Accounts Manager"}],"__last_sync_on":"2024-06-24T12:35:20.679Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-06-24 18:26:44,611 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"name":"purchase order workflow","owner":"Administrator","creation":"2024-06-24 18:05:18.345217","modified":"2024-06-24 18:05:18.345217","modified_by":"Administrator","docstatus":0,"idx":0,"workflow_name":"purchase order workflow","document_type":"Purchase Order","is_active":1,"override_status":0,"send_email_alert":0,"workflow_state_field":"workflow_state","doctype":"Workflow","transitions":[{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-whnletrhyq","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","action":"Review","next_state":"Approved","allowed":"Purchase User"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-ntjvmayyox","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","action":"Approve","next_state":"Approved","allowed":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Transition","name":"new-workflow-transition-hkcegrtnrd","__islocal":1,"__unsaved":1,"owner":"Administrator","allow_self_approval":1,"parent":"purchase order workflow","parentfield":"transitions","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","action":"Reject","next_state":"Rejected","allowed":"Purchase Manager"}],"states":[{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-mqxdptttnc","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Draft","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":1,"__unedited":false,"state":"Pending","allow_edit":"Purchase User"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-jweybfulrt","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Submitted","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":2,"__unedited":false,"state":"Approved","allow_edit":"Purchase Manager"},{"docstatus":0,"doctype":"Workflow Document State","name":"new-workflow-document-state-gyvuqjopda","__islocal":1,"__unsaved":1,"owner":"Administrator","doc_status":"Cancelled","is_optional_state":0,"avoid_status_override":0,"parent":"purchase order workflow","parentfield":"states","parenttype":"Workflow","idx":3,"__unedited":false,"state":"Rejected","allow_edit":"Accounts Manager"}],"__last_sync_on":"2024-06-24T12:35:20.679Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
